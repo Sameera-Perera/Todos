@@ -3,8 +3,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Flutter version - 2.10.5
-To get a local copy up and running follow these simple example steps.
+Flutter version - 2.10.5. To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
